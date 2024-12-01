@@ -1,0 +1,6 @@
+{
+"pylint.args": ["--rcfile=PATH_TO/pylintrc"],
+"pylint.args": ["--rcfile=<file>"],
+"pylint.args": ["--disable=C0111", "--max-line-length=120"],
+"python.autoComplete.extraPaths": ["./src"],
+}
